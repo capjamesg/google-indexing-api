@@ -8,6 +8,7 @@ To use this project, first clone this repository and install the required depend
 
 ```
 git clone https://github.com/capjamesg/google-indexing-api
+cd google-indexing-api/
 pip3 install -r requirements.txt
 ```
 
